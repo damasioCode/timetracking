@@ -1,0 +1,42 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  object-fit: contain;
+}
+
+body {
+  background-color: #1a1a1a;
+  font-family: 'Rubik', Arial, Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  appearance: none;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+ul, 
+ol, 
+li {
+  list-style: none;
+}
+/* 
+::-moz-selection { 
+  background: #f31b4a;
+}
+
+::selection {
+  background: #f31b4a;
+} */
